@@ -1,7 +1,9 @@
 # ProjectM2
-Le projet d'Alexandr Ivanov et Ugur Soy
+Le projet d'Alexandr Ivanov, Ugur Soy et Kirian Guiller
 
-La problématique: Les données qui détaillent les dépenses militaires par pays et par régions entre 1960 et 2018
+Sujet: Les données qui détaillent les dépenses militaires par pays et par régions entre 1960 et 2018
+
+Problématique: Représenter les dépenses militaires par pays et par régions au cours des derniers 50 ans. 
 
 L'intérêt: illustrer la dynamique économique des pays à travers le jeux de données militaires qui sont souvent en corrélation directe avec la situation économique du pays et aussi 
 			avec la conjoncture économique mondiale mais aussi avec les conflits mondiaux, inter et intra régionaux.
