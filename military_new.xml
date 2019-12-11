@@ -38484,7 +38484,7 @@
 	<entity>
 		<entity_name>Middle East and North Africa (excluding high income)</entity_name>
 		<entity_code>MNA</entity_code>
-		<type>country</type>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -43324,7 +43324,7 @@
 	<entity>
 		<entity_name>OECD members</entity_name>
 		<entity_code>OED</entity_code>
-		<type>country</type>
+		<type>economy</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>67776988377.0651</number>
@@ -45744,7 +45744,7 @@
 	<entity>
 		<entity_name>Pre-demographic dividend</entity_name>
 		<entity_code>PRE</entity_code>
-		<type>country</type>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -47196,7 +47196,7 @@
 	<entity>
 		<entity_name>Pacific island small states</entity_name>
 		<entity_code>PSS</entity_code>
-		<type>country</type>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -47438,7 +47438,7 @@
 	<entity>
 		<entity_name>Post-demographic dividend</entity_name>
 		<entity_code>PST</entity_code>
-		<type>country</type>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>63331308050.3604</number>
@@ -48890,7 +48890,7 @@
 	<entity>
 		<entity_name>South Asia</entity_name>
 		<entity_code>SAS</entity_code>
-		<type>country</type>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>907263907.263908</number>
@@ -55182,7 +55182,7 @@
 	<entity>
 		<entity_name>East Asia and Pacific (IDA and IBRD countries)</entity_name>
 		<entity_code>TEA</entity_code>
-		<type>country</type>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -55424,7 +55424,7 @@
 	<entity>
 		<entity_name>Europe and Central Asia (IDA and IBRD countries)</entity_name>
 		<entity_code>TEC</entity_code>
-		<type>country</type>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
