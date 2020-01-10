@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE livre SYSTEM "military.dtd">
 
 
 <data>
 
-	<country>
-		<Country_Name>Aruba</Country_Name>
-		<Country_Code>ABW</Country_Code>
+	<entity>
+		<entity_name>Aruba</entity_name>
+		<entity_code>ABW</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -242,11 +244,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Afghanistan</Country_Name>
-		<Country_Code>AFG</Country_Code>
+	<entity>
+		<entity_name>Afghanistan</entity_name>
+		<entity_code>AFG</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -483,11 +486,12 @@
 			<annee>2018</annee>
 			<number>198086263.3245</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Angola</Country_Name>
-		<Country_Code>AGO</Country_Code>
+	<entity>
+		<entity_name>Angola</entity_name>
+		<entity_code>AGO</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -724,11 +728,12 @@
 			<annee>2018</annee>
 			<number>1983613748.00089</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Albania</Country_Name>
-		<Country_Code>ALB</Country_Code>
+	<entity>
+		<entity_name>Albania</entity_name>
+		<entity_code>ALB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -965,11 +970,12 @@
 			<annee>2018</annee>
 			<number>180488725.123503</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Andorra</Country_Name>
-		<Country_Code>AND</Country_Code>
+	<entity>
+		<entity_name>Andorra</entity_name>
+		<entity_code>AND</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -1206,11 +1212,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Arab World</Country_Name>
-		<Country_Code>ARB</Country_Code>
+	<entity>
+		<entity_name>Arab World</entity_name>
+		<entity_code>ARB</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -1447,11 +1454,12 @@
 			<annee>2018</annee>
 			<number>112512290717.961</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>United Arab Emirates</Country_Name>
-		<Country_Code>ARE</Country_Code>
+	<entity>
+		<entity_name>United Arab Emirates</entity_name>
+		<entity_code>ARE</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -1688,11 +1696,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Argentina</Country_Name>
-		<Country_Code>ARG</Country_Code>
+	<entity>
+		<entity_name>Argentina</entity_name>
+		<entity_code>ARG</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -1929,11 +1938,12 @@
 			<annee>2018</annee>
 			<number>4144991771.42212</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Armenia</Country_Name>
-		<Country_Code>ARM</Country_Code>
+	<entity>
+		<entity_name>Armenia</entity_name>
+		<entity_code>ARM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -2170,11 +2180,12 @@
 			<annee>2018</annee>
 			<number>608854649.862522</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>American Samoa</Country_Name>
-		<Country_Code>ASM</Country_Code>
+	<entity>
+		<entity_name>American Samoa</entity_name>
+		<entity_code>ASM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -2411,11 +2422,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Antigua and Barbuda</Country_Name>
-		<Country_Code>ATG</Country_Code>
+	<entity>
+		<entity_name>Antigua and Barbuda</entity_name>
+		<entity_code>ATG</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -2652,11 +2664,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Australia</Country_Name>
-		<Country_Code>AUS</Country_Code>
+	<entity>
+		<entity_name>Australia</entity_name>
+		<entity_code>AUS</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>459760073.561612</number>
@@ -2893,11 +2906,12 @@
 			<annee>2018</annee>
 			<number>26711834224.7385</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Austria</Country_Name>
-		<Country_Code>AUT</Country_Code>
+	<entity>
+		<entity_name>Austria</entity_name>
+		<entity_code>AUT</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>91559097.9576499</number>
@@ -3134,11 +3148,12 @@
 			<annee>2018</annee>
 			<number>3367460382.82555</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Azerbaijan</Country_Name>
-		<Country_Code>AZE</Country_Code>
+	<entity>
+		<entity_name>Azerbaijan</entity_name>
+		<entity_code>AZE</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -3375,11 +3390,12 @@
 			<annee>2018</annee>
 			<number>1708941176.47059</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Burundi</Country_Name>
-		<Country_Code>BDI</Country_Code>
+	<entity>
+		<entity_name>Burundi</entity_name>
+		<entity_code>BDI</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -3616,11 +3632,12 @@
 			<annee>2018</annee>
 			<number>65436595.2627955</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Belgium</Country_Name>
-		<Country_Code>BEL</Country_Code>
+	<entity>
+		<entity_name>Belgium</entity_name>
+		<entity_code>BEL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>383220247.363793</number>
@@ -3857,11 +3874,12 @@
 			<annee>2018</annee>
 			<number>4959692173.31775</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Benin</Country_Name>
-		<Country_Code>BEN</Country_Code>
+	<entity>
+		<entity_name>Benin</entity_name>
+		<entity_code>BEN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>1301005.3222945</number>
@@ -4098,11 +4116,12 @@
 			<annee>2018</annee>
 			<number>90212425.9945842</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Burkina Faso</Country_Name>
-		<Country_Code>BFA</Country_Code>
+	<entity>
+		<entity_name>Burkina Faso</entity_name>
+		<entity_code>BFA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>1268378.22957238</number>
@@ -4339,11 +4358,12 @@
 			<annee>2018</annee>
 			<number>312467610.986353</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Bangladesh</Country_Name>
-		<Country_Code>BGD</Country_Code>
+	<entity>
+		<entity_name>Bangladesh</entity_name>
+		<entity_code>BGD</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -4580,11 +4600,12 @@
 			<annee>2018</annee>
 			<number>3894695211.01616</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Bulgaria</Country_Name>
-		<Country_Code>BGR</Country_Code>
+	<entity>
+		<entity_name>Bulgaria</entity_name>
+		<entity_code>BGR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -4821,11 +4842,12 @@
 			<annee>2018</annee>
 			<number>1095591046.96115</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Bahrain</Country_Name>
-		<Country_Code>BHR</Country_Code>
+	<entity>
+		<entity_name>Bahrain</entity_name>
+		<entity_code>BHR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -5062,11 +5084,12 @@
 			<annee>2018</annee>
 			<number>1396808510.6383</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Bahamas, The</Country_Name>
-		<Country_Code>BHS</Country_Code>
+	<entity>
+		<entity_name>Bahamas, The</entity_name>
+		<entity_code>BHS</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -5303,11 +5326,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Bosnia and Herzegovina</Country_Name>
-		<Country_Code>BIH</Country_Code>
+	<entity>
+		<entity_name>Bosnia and Herzegovina</entity_name>
+		<entity_code>BIH</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -5544,11 +5568,12 @@
 			<annee>2018</annee>
 			<number>221131597.126194</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Belarus</Country_Name>
-		<Country_Code>BLR</Country_Code>
+	<entity>
+		<entity_name>Belarus</entity_name>
+		<entity_code>BLR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -5785,11 +5810,12 @@
 			<annee>2018</annee>
 			<number>715166688.689712</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Belize</Country_Name>
-		<Country_Code>BLZ</Country_Code>
+	<entity>
+		<entity_name>Belize</entity_name>
+		<entity_code>BLZ</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -6026,11 +6052,12 @@
 			<annee>2018</annee>
 			<number>23083112.5</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Bermuda</Country_Name>
-		<Country_Code>BMU</Country_Code>
+	<entity>
+		<entity_name>Bermuda</entity_name>
+		<entity_code>BMU</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -6267,11 +6294,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Bolivia</Country_Name>
-		<Country_Code>BOL</Country_Code>
+	<entity>
+		<entity_name>Bolivia</entity_name>
+		<entity_code>BOL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -6508,11 +6536,12 @@
 			<annee>2018</annee>
 			<number>618842083.148114</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Brazil</Country_Name>
-		<Country_Code>BRA</Country_Code>
+	<entity>
+		<entity_name>Brazil</entity_name>
+		<entity_code>BRA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>382729752.052851</number>
@@ -6749,11 +6778,12 @@
 			<annee>2018</annee>
 			<number>27766427104.014</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Barbados</Country_Name>
-		<Country_Code>BRB</Country_Code>
+	<entity>
+		<entity_name>Barbados</entity_name>
+		<entity_code>BRB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -6990,11 +7020,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Brunei Darussalam</Country_Name>
-		<Country_Code>BRN</Country_Code>
+	<entity>
+		<entity_name>Brunei Darussalam</entity_name>
+		<entity_code>BRN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -7231,11 +7262,12 @@
 			<annee>2018</annee>
 			<number>346588691.003794</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Bhutan</Country_Name>
-		<Country_Code>BTN</Country_Code>
+	<entity>
+		<entity_name>Bhutan</entity_name>
+		<entity_code>BTN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -7472,11 +7504,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Botswana</Country_Name>
-		<Country_Code>BWA</Country_Code>
+	<entity>
+		<entity_name>Botswana</entity_name>
+		<entity_code>BWA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -7713,11 +7746,12 @@
 			<annee>2018</annee>
 			<number>529481041.984864</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Central African Republic</Country_Name>
-		<Country_Code>CAF</Country_Code>
+	<entity>
+		<entity_name>Central African Republic</entity_name>
+		<entity_code>CAF</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -7954,11 +7988,12 @@
 			<annee>2018</annee>
 			<number>30951301.3185927</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Canada</Country_Name>
-		<Country_Code>CAN</Country_Code>
+	<entity>
+		<entity_name>Canada</entity_name>
+		<entity_code>CAN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>1702442711.4107</number>
@@ -8195,11 +8230,12 @@
 			<annee>2018</annee>
 			<number>21620598711.9827</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Central Europe and the Baltics</Country_Name>
-		<Country_Code>CEB</Country_Code>
+	<entity>
+		<entity_name>Central Europe and the Baltics</entity_name>
+		<entity_code>CEB</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -8436,11 +8472,12 @@
 			<annee>2018</annee>
 			<number>26681204886.4986</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Switzerland</Country_Name>
-		<Country_Code>CHE</Country_Code>
+	<entity>
+		<entity_name>Switzerland</entity_name>
+		<entity_code>CHE</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>200093758.218136</number>
@@ -8677,11 +8714,12 @@
 			<annee>2018</annee>
 			<number>4795847181.19875</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Channel Islands</Country_Name>
-		<Country_Code>CHI</Country_Code>
+	<entity>
+		<entity_name>Channel Islands</entity_name>
+		<entity_code>CHI</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -8918,11 +8956,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Chile</Country_Name>
-		<Country_Code>CHL</Country_Code>
+	<entity>
+		<entity_name>Chile</entity_name>
+		<entity_code>CHL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>126791042.64183</number>
@@ -9159,11 +9198,12 @@
 			<annee>2018</annee>
 			<number>5570724562.66561</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>China</Country_Name>
-		<Country_Code>CHN</Country_Code>
+	<entity>
+		<entity_name>China</entity_name>
+		<entity_code>CHN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -9400,11 +9440,12 @@
 			<annee>2018</annee>
 			<number>249996900635.144</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Cote d'Ivoire</Country_Name>
-		<Country_Code>CIV</Country_Code>
+	<entity>
+		<entity_name>Cote d'Ivoire</entity_name>
+		<entity_code>CIV</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -9641,11 +9682,12 @@
 			<annee>2018</annee>
 			<number>607848217.884494</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Cameroon</Country_Name>
-		<Country_Code>CMR</Country_Code>
+	<entity>
+		<entity_name>Cameroon</entity_name>
+		<entity_code>CMR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -9882,11 +9924,12 @@
 			<annee>2018</annee>
 			<number>429892180.57235</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Congo, Dem. Rep.</Country_Name>
-		<Country_Code>COD</Country_Code>
+	<entity>
+		<entity_name>Congo, Dem. Rep.</entity_name>
+		<entity_code>COD</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -10123,11 +10166,12 @@
 			<annee>2018</annee>
 			<number>295348364.63547</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Congo, Rep.</Country_Name>
-		<Country_Code>COG</Country_Code>
+	<entity>
+		<entity_name>Congo, Rep.</entity_name>
+		<entity_code>COG</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -10364,11 +10408,12 @@
 			<annee>2018</annee>
 			<number>292260465.250187</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Colombia</Country_Name>
-		<Country_Code>COL</Country_Code>
+	<entity>
+		<entity_name>Colombia</entity_name>
+		<entity_code>COL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>75960813.8658628</number>
@@ -10605,11 +10650,12 @@
 			<annee>2018</annee>
 			<number>10602860966.7378</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Comoros</Country_Name>
-		<Country_Code>COM</Country_Code>
+	<entity>
+		<entity_name>Comoros</entity_name>
+		<entity_code>COM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -10846,11 +10892,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Cabo Verde</Country_Name>
-		<Country_Code>CPV</Country_Code>
+	<entity>
+		<entity_name>Cabo Verde</entity_name>
+		<entity_code>CPV</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -11087,11 +11134,12 @@
 			<annee>2018</annee>
 			<number>10714071.127336</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Costa Rica</Country_Name>
-		<Country_Code>CRI</Country_Code>
+	<entity>
+		<entity_name>Costa Rica</entity_name>
+		<entity_code>CRI</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>0</number>
@@ -11328,11 +11376,12 @@
 			<annee>2018</annee>
 			<number>0</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Caribbean small states</Country_Name>
-		<Country_Code>CSS</Country_Code>
+	<entity>
+		<entity_name>Caribbean small states</entity_name>
+		<entity_code>CSS</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -11569,11 +11618,12 @@
 			<annee>2018</annee>
 			<number>459997692.69731</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Cuba</Country_Name>
-		<Country_Code>CUB</Country_Code>
+	<entity>
+		<entity_name>Cuba</entity_name>
+		<entity_code>CUB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -11810,11 +11860,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Curacao</Country_Name>
-		<Country_Code>CUW</Country_Code>
+	<entity>
+		<entity_name>Curacao</entity_name>
+		<entity_code>CUW</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -12051,11 +12102,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Cayman Islands</Country_Name>
-		<Country_Code>CYM</Country_Code>
+	<entity>
+		<entity_name>Cayman Islands</entity_name>
+		<entity_code>CYM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -12292,11 +12344,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Cyprus</Country_Name>
-		<Country_Code>CYP</Country_Code>
+	<entity>
+		<entity_name>Cyprus</entity_name>
+		<entity_code>CYP</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -12533,11 +12586,12 @@
 			<annee>2018</annee>
 			<number>381879772.907003</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Czech Republic</Country_Name>
-		<Country_Code>CZE</Country_Code>
+	<entity>
+		<entity_name>Czech Republic</entity_name>
+		<entity_code>CZE</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -12774,11 +12828,12 @@
 			<annee>2018</annee>
 			<number>2710017583.30521</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Germany</Country_Name>
-		<Country_Code>DEU</Country_Code>
+	<entity>
+		<entity_name>Germany</entity_name>
+		<entity_code>DEU</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>2884517772.40702</number>
@@ -13015,11 +13070,12 @@
 			<annee>2018</annee>
 			<number>49470627810.6299</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Djibouti</Country_Name>
-		<Country_Code>DJI</Country_Code>
+	<entity>
+		<entity_name>Djibouti</entity_name>
+		<entity_code>DJI</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -13256,11 +13312,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Dominica</Country_Name>
-		<Country_Code>DMA</Country_Code>
+	<entity>
+		<entity_name>Dominica</entity_name>
+		<entity_code>DMA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -13497,11 +13554,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Denmark</Country_Name>
-		<Country_Code>DNK</Country_Code>
+	<entity>
+		<entity_name>Denmark</entity_name>
+		<entity_code>DNK</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>161137605.434377</number>
@@ -13738,11 +13796,12 @@
 			<annee>2018</annee>
 			<number>4228194254.02249</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Dominican Republic</Country_Name>
-		<Country_Code>DOM</Country_Code>
+	<entity>
+		<entity_name>Dominican Republic</entity_name>
+		<entity_code>DOM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>38300000</number>
@@ -13979,11 +14038,12 @@
 			<annee>2018</annee>
 			<number>602522387.042183</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Algeria</Country_Name>
-		<Country_Code>DZA</Country_Code>
+	<entity>
+		<entity_name>Algeria</entity_name>
+		<entity_code>DZA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -14220,11 +14280,12 @@
 			<annee>2018</annee>
 			<number>9583724288.3703</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>East Asia and Pacific (excluding high income)</Country_Name>
-		<Country_Code>EAP</Country_Code>
+	<entity>
+		<entity_name>East Asia and Pacific (excluding high income)</entity_name>
+		<entity_code>EAP</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -14461,11 +14522,12 @@
 			<annee>2018</annee>
 			<number>279802223817.985</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Early-demographic dividend</Country_Name>
-		<Country_Code>EAR</Country_Code>
+	<entity>
+		<entity_name>Early-demographic dividend</entity_name>
+		<entity_code>EAR</entity_code>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>2716315241.50135</number>
@@ -14702,11 +14764,12 @@
 			<annee>2018</annee>
 			<number>252656094879.843</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>East Asia and Pacific</Country_Name>
-		<Country_Code>EAS</Country_Code>
+	<entity>
+		<entity_name>East Asia and Pacific</entity_name>
+		<entity_code>EAS</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -14943,11 +15006,12 @@
 			<annee>2018</annee>
 			<number>420366181123.069</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Europe and Central Asia (excluding high income)</Country_Name>
-		<Country_Code>ECA</Country_Code>
+	<entity>
+		<entity_name>Europe and Central Asia (excluding high income)</entity_name>
+		<entity_code>ECA</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -15184,11 +15248,12 @@
 			<annee>2018</annee>
 			<number>97497803031.086</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Europe and Central Asia</Country_Name>
-		<Country_Code>ECS</Country_Code>
+	<entity>
+		<entity_name>Europe and Central Asia</entity_name>
+		<entity_code>ECS</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -15425,11 +15490,12 @@
 			<annee>2018</annee>
 			<number>384547280027.087</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Ecuador</Country_Name>
-		<Country_Code>ECU</Country_Code>
+	<entity>
+		<entity_name>Ecuador</entity_name>
+		<entity_code>ECU</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>22400000</number>
@@ -15666,11 +15732,12 @@
 			<annee>2018</annee>
 			<number>2549400000</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Egypt, Arab Rep.</Country_Name>
-		<Country_Code>EGY</Country_Code>
+	<entity>
+		<entity_name>Egypt, Arab Rep.</entity_name>
+		<entity_code>EGY</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -15907,11 +15974,12 @@
 			<annee>2018</annee>
 			<number>3109997891.99423</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Euro area</Country_Name>
-		<Country_Code>EMU</Country_Code>
+	<entity>
+		<entity_name>Euro area</entity_name>
+		<entity_code>EMU</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>9333488689.80699</number>
@@ -16148,11 +16216,12 @@
 			<annee>2018</annee>
 			<number>198437051986.44</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Eritrea</Country_Name>
-		<Country_Code>ERI</Country_Code>
+	<entity>
+		<entity_name>Eritrea</entity_name>
+		<entity_code>ERI</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -16389,11 +16458,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Spain</Country_Name>
-		<Country_Code>ESP</Country_Code>
+	<entity>
+		<entity_name>Spain</entity_name>
+		<entity_code>ESP</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>232839815.943989</number>
@@ -16630,11 +16700,12 @@
 			<annee>2018</annee>
 			<number>18248291491.0945</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Estonia</Country_Name>
-		<Country_Code>EST</Country_Code>
+	<entity>
+		<entity_name>Estonia</entity_name>
+		<entity_code>EST</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -16871,11 +16942,12 @@
 			<annee>2018</annee>
 			<number>618486125.373275</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Ethiopia</Country_Name>
-		<Country_Code>ETH</Country_Code>
+	<entity>
+		<entity_name>Ethiopia</entity_name>
+		<entity_code>ETH</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>15335262.6515917</number>
@@ -17112,11 +17184,12 @@
 			<annee>2018</annee>
 			<number>496621069.677034</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>European Union</Country_Name>
-		<Country_Code>EUU</Country_Code>
+	<entity>
+		<entity_name>European Union</entity_name>
+		<entity_code>EUU</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>18900106693.848</number>
@@ -17353,11 +17426,12 @@
 			<annee>2018</annee>
 			<number>280960105640.602</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Fragile and conflict affected situations</Country_Name>
-		<Country_Code>FCS</Country_Code>
+	<entity>
+		<entity_name>Fragile and conflict affected situations</entity_name>
+		<entity_code>FCS</entity_code>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -17594,11 +17668,12 @@
 			<annee>2018</annee>
 			<number>15352665891.5045</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Finland</Country_Name>
-		<Country_Code>FIN</Country_Code>
+	<entity>
+		<entity_name>Finland</entity_name>
+		<entity_code>FIN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>89557618.8078432</number>
@@ -17835,11 +17910,12 @@
 			<annee>2018</annee>
 			<number>3849013845.1188</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Fiji</Country_Name>
-		<Country_Code>FJI</Country_Code>
+	<entity>
+		<entity_name>Fiji</entity_name>
+		<entity_code>FJI</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -18076,11 +18152,12 @@
 			<annee>2018</annee>
 			<number>48412174.6900704</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>France</Country_Name>
-		<Country_Code>FRA</Country_Code>
+	<entity>
+		<entity_name>France</entity_name>
+		<entity_code>FRA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>3881219690.42716</number>
@@ -18317,11 +18394,12 @@
 			<annee>2018</annee>
 			<number>63799676593.1329</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Faroe Islands</Country_Name>
-		<Country_Code>FRO</Country_Code>
+	<entity>
+		<entity_name>Faroe Islands</entity_name>
+		<entity_code>FRO</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -18558,11 +18636,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Micronesia, Fed. Sts.</Country_Name>
-		<Country_Code>FSM</Country_Code>
+	<entity>
+		<entity_name>Micronesia, Fed. Sts.</entity_name>
+		<entity_code>FSM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -18799,11 +18878,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Gabon</Country_Name>
-		<Country_Code>GAB</Country_Code>
+	<entity>
+		<entity_name>Gabon</entity_name>
+		<entity_code>GAB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -19040,11 +19120,12 @@
 			<annee>2018</annee>
 			<number>261217395.059596</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>United Kingdom</Country_Name>
-		<Country_Code>GBR</Country_Code>
+	<entity>
+		<entity_name>United Kingdom</entity_name>
+		<entity_code>GBR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>4587798164.88073</number>
@@ -19281,11 +19362,12 @@
 			<annee>2018</annee>
 			<number>49997192520.5639</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Georgia</Country_Name>
-		<Country_Code>GEO</Country_Code>
+	<entity>
+		<entity_name>Georgia</entity_name>
+		<entity_code>GEO</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -19522,11 +19604,12 @@
 			<annee>2018</annee>
 			<number>316508368.08463</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Ghana</Country_Name>
-		<Country_Code>GHA</Country_Code>
+	<entity>
+		<entity_name>Ghana</entity_name>
+		<entity_code>GHA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>20821777.3519574</number>
@@ -19763,11 +19846,12 @@
 			<annee>2018</annee>
 			<number>218444253.592195</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Gibraltar</Country_Name>
-		<Country_Code>GIB</Country_Code>
+	<entity>
+		<entity_name>Gibraltar</entity_name>
+		<entity_code>GIB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -20004,11 +20088,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Guinea</Country_Name>
-		<Country_Code>GIN</Country_Code>
+	<entity>
+		<entity_name>Guinea</entity_name>
+		<entity_code>GIN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -20245,11 +20330,12 @@
 			<annee>2018</annee>
 			<number>209150578.316794</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Gambia, The</Country_Name>
-		<Country_Code>GMB</Country_Code>
+	<entity>
+		<entity_name>Gambia, The</entity_name>
+		<entity_code>GMB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -20486,11 +20572,12 @@
 			<annee>2018</annee>
 			<number>11487224.9434107</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Guinea-Bissau</Country_Name>
-		<Country_Code>GNB</Country_Code>
+	<entity>
+		<entity_name>Guinea-Bissau</entity_name>
+		<entity_code>GNB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -20727,11 +20814,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Equatorial Guinea</Country_Name>
-		<Country_Code>GNQ</Country_Code>
+	<entity>
+		<entity_name>Equatorial Guinea</entity_name>
+		<entity_code>GNQ</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -20968,11 +21056,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Greece</Country_Name>
-		<Country_Code>GRC</Country_Code>
+	<entity>
+		<entity_name>Greece</entity_name>
+		<entity_code>GRC</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>170327798.096363</number>
@@ -21209,11 +21298,12 @@
 			<annee>2018</annee>
 			<number>5227152013.0307</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Grenada</Country_Name>
-		<Country_Code>GRD</Country_Code>
+	<entity>
+		<entity_name>Grenada</entity_name>
+		<entity_code>GRD</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -21450,11 +21540,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Greenland</Country_Name>
-		<Country_Code>GRL</Country_Code>
+	<entity>
+		<entity_name>Greenland</entity_name>
+		<entity_code>GRL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -21691,11 +21782,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Guatemala</Country_Name>
-		<Country_Code>GTM</Country_Code>
+	<entity>
+		<entity_name>Guatemala</entity_name>
+		<entity_code>GTM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>12084076.433121</number>
@@ -21932,11 +22024,12 @@
 			<annee>2018</annee>
 			<number>278420891.52709</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Guam</Country_Name>
-		<Country_Code>GUM</Country_Code>
+	<entity>
+		<entity_name>Guam</entity_name>
+		<entity_code>GUM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -22173,11 +22266,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Guyana</Country_Name>
-		<Country_Code>GUY</Country_Code>
+	<entity>
+		<entity_name>Guyana</entity_name>
+		<entity_code>GUY</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -22414,11 +22508,12 @@
 			<annee>2018</annee>
 			<number>59809426.6029784</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>High income</Country_Name>
-		<Country_Code>HIC</Country_Code>
+	<entity>
+		<entity_name>High income</entity_name>
+		<entity_code>HIC</entity_code>
+		<type>economy</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>67365066349.7747</number>
@@ -22655,11 +22750,12 @@
 			<annee>2018</annee>
 			<number>1203937145058.72</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Hong Kong SAR, China</Country_Name>
-		<Country_Code>HKG</Country_Code>
+	<entity>
+		<entity_name>Hong Kong SAR, China</entity_name>
+		<entity_code>HKG</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -22896,11 +22992,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Honduras</Country_Name>
-		<Country_Code>HND</Country_Code>
+	<entity>
+		<entity_name>Honduras</entity_name>
+		<entity_code>HND</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>3920000</number>
@@ -23137,11 +23234,12 @@
 			<annee>2018</annee>
 			<number>410414895.120735</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Heavily indebted poor countries (HIPC)</Country_Name>
-		<Country_Code>HPC</Country_Code>
+	<entity>
+		<entity_name>Heavily indebted poor countries (HIPC)</entity_name>
+		<entity_code>HPC</entity_code>
+		<type>economy</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -23378,11 +23476,12 @@
 			<annee>2018</annee>
 			<number>9009353603.90884</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Croatia</Country_Name>
-		<Country_Code>HRV</Country_Code>
+	<entity>
+		<entity_name>Croatia</entity_name>
+		<entity_code>HRV</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -23619,11 +23718,12 @@
 			<annee>2018</annee>
 			<number>889523365.341169</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Haiti</Country_Name>
-		<Country_Code>HTI</Country_Code>
+	<entity>
+		<entity_name>Haiti</entity_name>
+		<entity_code>HTI</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -23860,11 +23960,12 @@
 			<annee>2018</annee>
 			<number>79690.8881656554</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Hungary</Country_Name>
-		<Country_Code>HUN</Country_Code>
+	<entity>
+		<entity_name>Hungary</entity_name>
+		<entity_code>HUN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -24101,11 +24202,12 @@
 			<annee>2018</annee>
 			<number>1642338440.41211</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>IBRD only</Country_Name>
-		<Country_Code>IBD</Country_Code>
+	<entity>
+		<entity_name>IBRD only</entity_name>
+		<entity_code>IBD</entity_code>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -24342,11 +24444,12 @@
 			<annee>2018</annee>
 			<number>567071346605.799</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>IDA and IBRD total</Country_Name>
-		<Country_Code>IBT</Country_Code>
+	<entity>
+		<entity_name>IDA and IBRD total</entity_name>
+		<entity_code>IBT</entity_code>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -24583,11 +24686,12 @@
 			<annee>2018</annee>
 			<number>597830424480.877</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>IDA total</Country_Name>
-		<Country_Code>IDA</Country_Code>
+	<entity>
+		<entity_name>IDA total</entity_name>
+		<entity_code>IDA</entity_code>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -24824,11 +24928,12 @@
 			<annee>2018</annee>
 			<number>30759077875.0777</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>IDA blend</Country_Name>
-		<Country_Code>IDB</Country_Code>
+	<entity>
+		<entity_name>IDA blend</entity_name>
+		<entity_code>IDB</entity_code>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>232225199.493213</number>
@@ -25065,11 +25170,12 @@
 			<annee>2018</annee>
 			<number>15928906418.0987</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Indonesia</Country_Name>
-		<Country_Code>IDN</Country_Code>
+	<entity>
+		<entity_name>Indonesia</entity_name>
+		<entity_code>IDN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -25306,11 +25412,12 @@
 			<annee>2018</annee>
 			<number>7437197347.73864</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>IDA only</Country_Name>
-		<Country_Code>IDX</Country_Code>
+	<entity>
+		<entity_name>IDA only</entity_name>
+		<entity_code>IDX</entity_code>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -25547,11 +25654,12 @@
 			<annee>2018</annee>
 			<number>14830171456.9791</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Isle of Man</Country_Name>
-		<Country_Code>IMN</Country_Code>
+	<entity>
+		<entity_name>Isle of Man</entity_name>
+		<entity_code>IMN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -25788,11 +25896,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>India</Country_Name>
-		<Country_Code>IND</Country_Code>
+	<entity>
+		<entity_name>India</entity_name>
+		<entity_code>IND</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>681765681.765682</number>
@@ -26029,11 +26138,12 @@
 			<annee>2018</annee>
 			<number>66510289108.4743</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Not classified</Country_Name>
-		<Country_Code>INX</Country_Code>
+	<entity>
+		<entity_name>Not classified</entity_name>
+		<entity_code>INX</entity_code>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -26270,11 +26380,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Ireland</Country_Name>
-		<Country_Code>IRL</Country_Code>
+	<entity>
+		<entity_name>Ireland</entity_name>
+		<entity_code>IRL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>25800590.1058045</number>
@@ -26511,11 +26622,12 @@
 			<annee>2018</annee>
 			<number>1207582356.62099</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Iran, Islamic Rep.</Country_Name>
-		<Country_Code>IRN</Country_Code>
+	<entity>
+		<entity_name>Iran, Islamic Rep.</entity_name>
+		<entity_code>IRN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>98679867.9867987</number>
@@ -26752,11 +26864,12 @@
 			<annee>2018</annee>
 			<number>13194151136.687</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Iraq</Country_Name>
-		<Country_Code>IRQ</Country_Code>
+	<entity>
+		<entity_name>Iraq</entity_name>
+		<entity_code>IRQ</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>118726952.509219</number>
@@ -26993,11 +27106,12 @@
 			<annee>2018</annee>
 			<number>6317977150.05254</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Iceland</Country_Name>
-		<Country_Code>ISL</Country_Code>
+	<entity>
+		<entity_name>Iceland</entity_name>
+		<entity_code>ISL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>0</number>
@@ -27234,11 +27348,12 @@
 			<annee>2018</annee>
 			<number>0</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Israel</Country_Name>
-		<Country_Code>ISR</Country_Code>
+	<entity>
+		<entity_name>Israel</entity_name>
+		<entity_code>ISR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>190277777.777778</number>
@@ -27475,11 +27590,12 @@
 			<annee>2018</annee>
 			<number>15946788601.4412</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Italy</Country_Name>
-		<Country_Code>ITA</Country_Code>
+	<entity>
+		<entity_name>Italy</entity_name>
+		<entity_code>ITA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>1009308856.43093</number>
@@ -27716,11 +27832,12 @@
 			<annee>2018</annee>
 			<number>27807513898.2331</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Jamaica</Country_Name>
-		<Country_Code>JAM</Country_Code>
+	<entity>
+		<entity_name>Jamaica</entity_name>
+		<entity_code>JAM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -27957,11 +28074,12 @@
 			<annee>2018</annee>
 			<number>207772685.795336</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Jordan</Country_Name>
-		<Country_Code>JOR</Country_Code>
+	<entity>
+		<entity_name>Jordan</entity_name>
+		<entity_code>JOR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>56139977.544009</number>
@@ -28198,11 +28316,12 @@
 			<annee>2018</annee>
 			<number>1957746478.87324</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Japan</Country_Name>
-		<Country_Code>JPN</Country_Code>
+	<entity>
+		<entity_name>Japan</entity_name>
+		<entity_code>JPN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>480555555.555556</number>
@@ -28439,11 +28558,12 @@
 			<annee>2018</annee>
 			<number>46617954863.9536</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Kazakhstan</Country_Name>
-		<Country_Code>KAZ</Country_Code>
+	<entity>
+		<entity_name>Kazakhstan</entity_name>
+		<entity_code>KAZ</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -28680,11 +28800,12 @@
 			<annee>2018</annee>
 			<number>1613589333.20165</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Kenya</Country_Name>
-		<Country_Code>KEN</Country_Code>
+	<entity>
+		<entity_name>Kenya</entity_name>
+		<entity_code>KEN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -28921,11 +29042,12 @@
 			<annee>2018</annee>
 			<number>1097458153.05083</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Kyrgyz Republic</Country_Name>
-		<Country_Code>KGZ</Country_Code>
+	<entity>
+		<entity_name>Kyrgyz Republic</entity_name>
+		<entity_code>KGZ</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -29162,11 +29284,12 @@
 			<annee>2018</annee>
 			<number>121163619.899255</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Cambodia</Country_Name>
-		<Country_Code>KHM</Country_Code>
+	<entity>
+		<entity_name>Cambodia</entity_name>
+		<entity_code>KHM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -29403,11 +29526,12 @@
 			<annee>2018</annee>
 			<number>543205183.272952</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Kiribati</Country_Name>
-		<Country_Code>KIR</Country_Code>
+	<entity>
+		<entity_name>Kiribati</entity_name>
+		<entity_code>KIR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -29644,11 +29768,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>St. Kitts and Nevis</Country_Name>
-		<Country_Code>KNA</Country_Code>
+	<entity>
+		<entity_name>St. Kitts and Nevis</entity_name>
+		<entity_code>KNA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -29885,11 +30010,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Korea, Rep.</Country_Name>
-		<Country_Code>KOR</Country_Code>
+	<entity>
+		<entity_name>Korea, Rep.</entity_name>
+		<entity_code>KOR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>275643564.356436</number>
@@ -30126,11 +30252,12 @@
 			<annee>2018</annee>
 			<number>43069973342.8752</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Kuwait</Country_Name>
-		<Country_Code>KWT</Country_Code>
+	<entity>
+		<entity_name>Kuwait</entity_name>
+		<entity_code>KWT</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -30367,11 +30494,12 @@
 			<annee>2018</annee>
 			<number>7296266526.41746</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Latin America and Caribbean (excluding high income)</Country_Name>
-		<Country_Code>LAC</Country_Code>
+	<entity>
+		<entity_name>Latin America and Caribbean (excluding high income)</entity_name>
+		<entity_code>LAC</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>914311085.507483</number>
@@ -30608,11 +30736,12 @@
 			<annee>2018</annee>
 			<number>57275656953.3346</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Lao PDR</Country_Name>
-		<Country_Code>LAO</Country_Code>
+	<entity>
+		<entity_name>Lao PDR</entity_name>
+		<entity_code>LAO</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -30849,11 +30978,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Lebanon</Country_Name>
-		<Country_Code>LBN</Country_Code>
+	<entity>
+		<entity_name>Lebanon</entity_name>
+		<entity_code>LBN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>22906905.201382</number>
@@ -31090,11 +31220,12 @@
 			<annee>2018</annee>
 			<number>2775557816.20658</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Liberia</Country_Name>
-		<Country_Code>LBR</Country_Code>
+	<entity>
+		<entity_name>Liberia</entity_name>
+		<entity_code>LBR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -31331,11 +31462,12 @@
 			<annee>2018</annee>
 			<number>15786500</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Libya</Country_Name>
-		<Country_Code>LBY</Country_Code>
+	<entity>
+		<entity_name>Libya</entity_name>
+		<entity_code>LBY</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>5571997.77120089</number>
@@ -31572,11 +31704,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>St. Lucia</Country_Name>
-		<Country_Code>LCA</Country_Code>
+	<entity>
+		<entity_name>St. Lucia</entity_name>
+		<entity_code>LCA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -31813,11 +31946,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Latin America and Caribbean</Country_Name>
-		<Country_Code>LCN</Country_Code>
+	<entity>
+		<entity_name>Latin America and Caribbean</entity_name>
+		<entity_code>LCN</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>1041102128.14931</number>
@@ -32054,11 +32188,12 @@
 			<annee>2018</annee>
 			<number>64183844797.5349</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Least developed countries: UN classification</Country_Name>
-		<Country_Code>LDC</Country_Code>
+	<entity>
+		<entity_name>Least developed countries: UN classification</entity_name>
+		<entity_code>LDC</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -32295,11 +32430,12 @@
 			<annee>2018</annee>
 			<number>15271776784.9681</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Low income</Country_Name>
-		<Country_Code>LIC</Country_Code>
+	<entity>
+		<entity_name>Low income</entity_name>
+		<entity_code>LIC</entity_code>
+		<type>economy</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -32536,11 +32672,12 @@
 			<annee>2018</annee>
 			<number>4816432269.705</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Liechtenstein</Country_Name>
-		<Country_Code>LIE</Country_Code>
+	<entity>
+		<entity_name>Liechtenstein</entity_name>
+		<entity_code>LIE</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -32777,11 +32914,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Sri Lanka</Country_Name>
-		<Country_Code>LKA</Country_Code>
+	<entity>
+		<entity_name>Sri Lanka</entity_name>
+		<entity_code>LKA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>16653016.6530167</number>
@@ -33018,11 +33156,12 @@
 			<annee>2018</annee>
 			<number>1681433577.38686</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Lower middle income</Country_Name>
-		<Country_Code>LMC</Country_Code>
+	<entity>
+		<entity_name>Lower middle income</entity_name>
+		<entity_code>LMC</entity_code>
+		<type>economy</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>1232667637.6006</number>
@@ -33259,11 +33398,12 @@
 			<annee>2018</annee>
 			<number>124346311554.92</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Low and middle income</Country_Name>
-		<Country_Code>LMY</Country_Code>
+	<entity>
+		<entity_name>Low and middle income</entity_name>
+		<entity_code>LMY</entity_code>
+		<type>economy</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -33500,11 +33640,12 @@
 			<annee>2018</annee>
 			<number>578413734698.197</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Lesotho</Country_Name>
-		<Country_Code>LSO</Country_Code>
+	<entity>
+		<entity_name>Lesotho</entity_name>
+		<entity_code>LSO</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -33741,11 +33882,12 @@
 			<annee>2018</annee>
 			<number>51064347.7548233</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Late-demographic dividend</Country_Name>
-		<Country_Code>LTE</Country_Code>
+	<entity>
+		<entity_name>Late-demographic dividend</entity_name>
+		<entity_code>LTE</entity_code>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -33982,11 +34124,12 @@
 			<annee>2018</annee>
 			<number>422332287728.984</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Lithuania</Country_Name>
-		<Country_Code>LTU</Country_Code>
+	<entity>
+		<entity_name>Lithuania</entity_name>
+		<entity_code>LTU</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -34223,11 +34366,12 @@
 			<annee>2018</annee>
 			<number>1030416769.94441</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Luxembourg</Country_Name>
-		<Country_Code>LUX</Country_Code>
+	<entity>
+		<entity_name>Luxembourg</entity_name>
+		<entity_code>LUX</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>5260312.8756646</number>
@@ -34464,11 +34608,12 @@
 			<annee>2018</annee>
 			<number>419372654.804982</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Latvia</Country_Name>
-		<Country_Code>LVA</Country_Code>
+	<entity>
+		<entity_name>Latvia</entity_name>
+		<entity_code>LVA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -34705,11 +34850,12 @@
 			<annee>2018</annee>
 			<number>679862611.097341</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Macao SAR, China</Country_Name>
-		<Country_Code>MAC</Country_Code>
+	<entity>
+		<entity_name>Macao SAR, China</entity_name>
+		<entity_code>MAC</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -34946,11 +35092,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>St. Martin (French part)</Country_Name>
-		<Country_Code>MAF</Country_Code>
+	<entity>
+		<entity_name>St. Martin (French part)</entity_name>
+		<entity_code>MAF</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -35187,11 +35334,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Morocco</Country_Name>
-		<Country_Code>MAR</Country_Code>
+	<entity>
+		<entity_name>Morocco</entity_name>
+		<entity_code>MAR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>41596762.3688615</number>
@@ -35428,11 +35576,12 @@
 			<annee>2018</annee>
 			<number>3696856944.7441</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Monaco</Country_Name>
-		<Country_Code>MCO</Country_Code>
+	<entity>
+		<entity_name>Monaco</entity_name>
+		<entity_code>MCO</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -35669,11 +35818,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Moldova</Country_Name>
-		<Country_Code>MDA</Country_Code>
+	<entity>
+		<entity_name>Moldova</entity_name>
+		<entity_code>MDA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -35910,11 +36060,12 @@
 			<annee>2018</annee>
 			<number>33957719.0958561</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Madagascar</Country_Name>
-		<Country_Code>MDG</Country_Code>
+	<entity>
+		<entity_name>Madagascar</entity_name>
+		<entity_code>MDG</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>1604193.58889704</number>
@@ -36151,11 +36302,12 @@
 			<annee>2018</annee>
 			<number>73258425.2386784</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Maldives</Country_Name>
-		<Country_Code>MDV</Country_Code>
+	<entity>
+		<entity_name>Maldives</entity_name>
+		<entity_code>MDV</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -36392,11 +36544,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Middle East and North Africa</Country_Name>
-		<Country_Code>MEA</Country_Code>
+	<entity>
+		<entity_name>Middle East and North Africa</entity_name>
+		<entity_code>MEA</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -36633,11 +36786,12 @@
 			<annee>2018</annee>
 			<number>140454066992.968</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Mexico</Country_Name>
-		<Country_Code>MEX</Country_Code>
+	<entity>
+		<entity_name>Mexico</entity_name>
+		<entity_code>MEX</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>84000000</number>
@@ -36874,11 +37028,12 @@
 			<annee>2018</annee>
 			<number>6567509335.98876</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Marshall Islands</Country_Name>
-		<Country_Code>MHL</Country_Code>
+	<entity>
+		<entity_name>Marshall Islands</entity_name>
+		<entity_code>MHL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -37115,11 +37270,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Middle income</Country_Name>
-		<Country_Code>MIC</Country_Code>
+	<entity>
+		<entity_name>Middle income</entity_name>
+		<entity_code>MIC</entity_code>
+		<type>economy</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -37356,11 +37512,12 @@
 			<annee>2018</annee>
 			<number>573597302428.492</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>North Macedonia</Country_Name>
-		<Country_Code>MKD</Country_Code>
+	<entity>
+		<entity_name>North Macedonia</entity_name>
+		<entity_code>MKD</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -37597,11 +37754,12 @@
 			<annee>2018</annee>
 			<number>117383985.526288</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Mali</Country_Name>
-		<Country_Code>MLI</Country_Code>
+	<entity>
+		<entity_name>Mali</entity_name>
+		<entity_code>MLI</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -37838,11 +37996,12 @@
 			<annee>2018</annee>
 			<number>495165301.003645</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Malta</Country_Name>
-		<Country_Code>MLT</Country_Code>
+	<entity>
+		<entity_name>Malta</entity_name>
+		<entity_code>MLT</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -38079,11 +38238,12 @@
 			<annee>2018</annee>
 			<number>69284609.8462047</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Myanmar</Country_Name>
-		<Country_Code>MMR</Country_Code>
+	<entity>
+		<entity_name>Myanmar</entity_name>
+		<entity_code>MMR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>89512589.5125895</number>
@@ -38320,11 +38480,12 @@
 			<annee>2018</annee>
 			<number>2030465546.68451</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Middle East and North Africa (excluding high income)</Country_Name>
-		<Country_Code>MNA</Country_Code>
+	<entity>
+		<entity_name>Middle East and North Africa (excluding high income)</entity_name>
+		<entity_code>MNA</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -38561,11 +38722,12 @@
 			<annee>2018</annee>
 			<number>41480239074.0565</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Montenegro</Country_Name>
-		<Country_Code>MNE</Country_Code>
+	<entity>
+		<entity_name>Montenegro</entity_name>
+		<entity_code>MNE</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -38802,11 +38964,12 @@
 			<annee>2018</annee>
 			<number>83806050.3051119</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Mongolia</Country_Name>
-		<Country_Code>MNG</Country_Code>
+	<entity>
+		<entity_name>Mongolia</entity_name>
+		<entity_code>MNG</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -39043,11 +39206,12 @@
 			<annee>2018</annee>
 			<number>96067489.8598111</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Northern Mariana Islands</Country_Name>
-		<Country_Code>MNP</Country_Code>
+	<entity>
+		<entity_name>Northern Mariana Islands</entity_name>
+		<entity_code>MNP</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -39284,11 +39448,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Mozambique</Country_Name>
-		<Country_Code>MOZ</Country_Code>
+	<entity>
+		<entity_name>Mozambique</entity_name>
+		<entity_code>MOZ</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -39525,11 +39690,12 @@
 			<annee>2018</annee>
 			<number>145206801.949917</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Mauritania</Country_Name>
-		<Country_Code>MRT</Country_Code>
+	<entity>
+		<entity_name>Mauritania</entity_name>
+		<entity_code>MRT</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -39766,11 +39932,12 @@
 			<annee>2018</annee>
 			<number>159013352.980386</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Mauritius</Country_Name>
-		<Country_Code>MUS</Country_Code>
+	<entity>
+		<entity_name>Mauritius</entity_name>
+		<entity_code>MUS</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -40007,11 +40174,12 @@
 			<annee>2018</annee>
 			<number>23202895.5612446</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Malawi</Country_Name>
-		<Country_Code>MWI</Country_Code>
+	<entity>
+		<entity_name>Malawi</entity_name>
+		<entity_code>MWI</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -40248,11 +40416,12 @@
 			<annee>2018</annee>
 			<number>58369173.4379987</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Malaysia</Country_Name>
-		<Country_Code>MYS</Country_Code>
+	<entity>
+		<entity_name>Malaysia</entity_name>
+		<entity_code>MYS</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>51286741.8872214</number>
@@ -40489,11 +40658,12 @@
 			<annee>2018</annee>
 			<number>3469828206.79145</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>North America</Country_Name>
-		<Country_Code>NAC</Country_Code>
+	<entity>
+		<entity_name>North America</entity_name>
+		<entity_code>NAC</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>47082442711.4107</number>
@@ -40730,11 +40900,12 @@
 			<annee>2018</annee>
 			<number>670418871711.983</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Namibia</Country_Name>
-		<Country_Code>NAM</Country_Code>
+	<entity>
+		<entity_name>Namibia</entity_name>
+		<entity_code>NAM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -40971,11 +41142,12 @@
 			<annee>2018</annee>
 			<number>451546508.809125</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>New Caledonia</Country_Name>
-		<Country_Code>NCL</Country_Code>
+	<entity>
+		<entity_name>New Caledonia</entity_name>
+		<entity_code>NCL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -41212,11 +41384,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Niger</Country_Name>
-		<Country_Code>NER</Country_Code>
+	<entity>
+		<entity_name>Niger</entity_name>
+		<entity_code>NER</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -41453,11 +41626,12 @@
 			<annee>2018</annee>
 			<number>229639906.143836</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Nigeria</Country_Name>
-		<Country_Code>NGA</Country_Code>
+	<entity>
+		<entity_name>Nigeria</entity_name>
+		<entity_code>NGA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>23379990.6480037</number>
@@ -41694,11 +41868,12 @@
 			<annee>2018</annee>
 			<number>2043051719.21673</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Nicaragua</Country_Name>
-		<Country_Code>NIC</Country_Code>
+	<entity>
+		<entity_name>Nicaragua</entity_name>
+		<entity_code>NIC</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -41935,11 +42110,12 @@
 			<annee>2018</annee>
 			<number>81593932.6938754</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Netherlands</Country_Name>
-		<Country_Code>NLD</Country_Code>
+	<entity>
+		<entity_name>Netherlands</entity_name>
+		<entity_code>NLD</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>454719432.137141</number>
@@ -42176,11 +42352,12 @@
 			<annee>2018</annee>
 			<number>11242755804.209</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Norway</Country_Name>
-		<Country_Code>NOR</Country_Code>
+	<entity>
+		<entity_name>Norway</entity_name>
+		<entity_code>NOR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>148119940.752024</number>
@@ -42417,11 +42594,12 @@
 			<annee>2018</annee>
 			<number>7067073380.84597</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Nepal</Country_Name>
-		<Country_Code>NPL</Country_Code>
+	<entity>
+		<entity_name>Nepal</entity_name>
+		<entity_code>NPL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -42658,11 +42836,12 @@
 			<annee>2018</annee>
 			<number>398521544.897916</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Nauru</Country_Name>
-		<Country_Code>NRU</Country_Code>
+	<entity>
+		<entity_name>Nauru</entity_name>
+		<entity_code>NRU</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -42899,11 +43078,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>New Zealand</Country_Name>
-		<Country_Code>NZL</Country_Code>
+	<entity>
+		<entity_name>New Zealand</entity_name>
+		<entity_code>NZL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>101219676.097036</number>
@@ -43140,11 +43320,12 @@
 			<annee>2018</annee>
 			<number>2262928311.88156</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>OECD members</Country_Name>
-		<Country_Code>OED</Country_Code>
+	<entity>
+		<entity_name>OECD members</entity_name>
+		<entity_code>OED</entity_code>
+		<type>economy</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>67776988377.0651</number>
@@ -43381,11 +43562,12 @@
 			<annee>2018</annee>
 			<number>1121911771844.08</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Oman</Country_Name>
-		<Country_Code>OMN</Country_Code>
+	<entity>
+		<entity_name>Oman</entity_name>
+		<entity_code>OMN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -43622,11 +43804,12 @@
 			<annee>2018</annee>
 			<number>6710013003.90117</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Other small states</Country_Name>
-		<Country_Code>OSS</Country_Code>
+	<entity>
+		<entity_name>Other small states</entity_name>
+		<entity_code>OSS</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -43863,11 +44046,12 @@
 			<annee>2018</annee>
 			<number>4366787606.42418</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Pakistan</Country_Name>
-		<Country_Code>PAK</Country_Code>
+	<entity>
+		<entity_name>Pakistan</entity_name>
+		<entity_code>PAK</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>208845208.845209</number>
@@ -44104,11 +44288,12 @@
 			<annee>2018</annee>
 			<number>11375525626.0917</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Panama</Country_Name>
-		<Country_Code>PAN</Country_Code>
+	<entity>
+		<entity_name>Panama</entity_name>
+		<entity_code>PAN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -44345,11 +44530,12 @@
 			<annee>2018</annee>
 			<number>0</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Peru</Country_Name>
-		<Country_Code>PER</Country_Code>
+	<entity>
+		<entity_name>Peru</entity_name>
+		<entity_code>PER</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>49085687.4926738</number>
@@ -44586,11 +44772,12 @@
 			<annee>2018</annee>
 			<number>2708912280.26713</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Philippines</Country_Name>
-		<Country_Code>PHL</Country_Code>
+	<entity>
+		<entity_name>Philippines</entity_name>
+		<entity_code>PHL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>123821339.950372</number>
@@ -44827,11 +45014,12 @@
 			<annee>2018</annee>
 			<number>3769741011.26795</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Palau</Country_Name>
-		<Country_Code>PLW</Country_Code>
+	<entity>
+		<entity_name>Palau</entity_name>
+		<entity_code>PLW</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -45068,11 +45256,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Papua New Guinea</Country_Name>
-		<Country_Code>PNG</Country_Code>
+	<entity>
+		<entity_name>Papua New Guinea</entity_name>
+		<entity_code>PNG</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -45309,11 +45498,12 @@
 			<annee>2018</annee>
 			<number>60592819.1437946</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Poland</Country_Name>
-		<Country_Code>POL</Country_Code>
+	<entity>
+		<entity_name>Poland</entity_name>
+		<entity_code>POL</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>3550000000</number>
@@ -45550,11 +45740,12 @@
 			<annee>2018</annee>
 			<number>11596155290.5944</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Pre-demographic dividend</Country_Name>
-		<Country_Code>PRE</Country_Code>
+	<entity>
+		<entity_name>Pre-demographic dividend</entity_name>
+		<entity_code>PRE</entity_code>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -45791,11 +45982,12 @@
 			<annee>2018</annee>
 			<number>18526652902.7568</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Puerto Rico</Country_Name>
-		<Country_Code>PRI</Country_Code>
+	<entity>
+		<entity_name>Puerto Rico</entity_name>
+		<entity_code>PRI</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -46032,11 +46224,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Korea, Dem. People’s Rep.</Country_Name>
-		<Country_Code>PRK</Country_Code>
+	<entity>
+		<entity_name>Korea, Dem. People’s Rep.</entity_name>
+		<entity_code>PRK</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -46273,11 +46466,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Portugal</Country_Name>
-		<Country_Code>PRT</Country_Code>
+	<entity>
+		<entity_name>Portugal</entity_name>
+		<entity_code>PRT</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>105157457.253633</number>
@@ -46514,11 +46708,12 @@
 			<annee>2018</annee>
 			<number>4247842970.62191</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Paraguay</Country_Name>
-		<Country_Code>PRY</Country_Code>
+	<entity>
+		<entity_name>Paraguay</entity_name>
+		<entity_code>PRY</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>7088541.5940611</number>
@@ -46755,11 +46950,12 @@
 			<annee>2018</annee>
 			<number>386556389.586348</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>West Bank and Gaza</Country_Name>
-		<Country_Code>PSE</Country_Code>
+	<entity>
+		<entity_name>West Bank and Gaza</entity_name>
+		<entity_code>PSE</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -46996,11 +47192,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Pacific island small states</Country_Name>
-		<Country_Code>PSS</Country_Code>
+	<entity>
+		<entity_name>Pacific island small states</entity_name>
+		<entity_code>PSS</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -47237,11 +47434,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Post-demographic dividend</Country_Name>
-		<Country_Code>PST</Country_Code>
+	<entity>
+		<entity_name>Post-demographic dividend</entity_name>
+		<entity_code>PST</entity_code>
+		<type>other</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>63331308050.3604</number>
@@ -47478,11 +47676,12 @@
 			<annee>2018</annee>
 			<number>1078058822569.47</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>French Polynesia</Country_Name>
-		<Country_Code>PYF</Country_Code>
+	<entity>
+		<entity_name>French Polynesia</entity_name>
+		<entity_code>PYF</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -47719,11 +47918,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Qatar</Country_Name>
-		<Country_Code>QAT</Country_Code>
+	<entity>
+		<entity_name>Qatar</entity_name>
+		<entity_code>QAT</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -47960,11 +48160,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Romania</Country_Name>
-		<Country_Code>ROU</Country_Code>
+	<entity>
+		<entity_name>Romania</entity_name>
+		<entity_code>ROU</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>740833333.333333</number>
@@ -48201,11 +48402,12 @@
 			<annee>2018</annee>
 			<number>4608673549.83767</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Russian Federation</Country_Name>
-		<Country_Code>RUS</Country_Code>
+	<entity>
+		<entity_name>Russian Federation</entity_name>
+		<entity_code>RUS</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -48442,11 +48644,12 @@
 			<annee>2018</annee>
 			<number>61387546980.4354</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Rwanda</Country_Name>
-		<Country_Code>RWA</Country_Code>
+	<entity>
+		<entity_name>Rwanda</entity_name>
+		<entity_code>RWA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -48683,11 +48886,12 @@
 			<annee>2018</annee>
 			<number>118959174.046815</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>South Asia</Country_Name>
-		<Country_Code>SAS</Country_Code>
+	<entity>
+		<entity_name>South Asia</entity_name>
+		<entity_code>SAS</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>907263907.263908</number>
@@ -48924,11 +49128,12 @@
 			<annee>2018</annee>
 			<number>84058551331.1914</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Saudi Arabia</Country_Name>
-		<Country_Code>SAU</Country_Code>
+	<entity>
+		<entity_name>Saudi Arabia</entity_name>
+		<entity_code>SAU</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>140888888.888889</number>
@@ -49165,11 +49370,12 @@
 			<annee>2018</annee>
 			<number>67554666666.6667</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Sudan</Country_Name>
-		<Country_Code>SDN</Country_Code>
+	<entity>
+		<entity_name>Sudan</entity_name>
+		<entity_code>SDN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>18667432.5100517</number>
@@ -49406,11 +49612,12 @@
 			<annee>2018</annee>
 			<number>1047878719.98741</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Senegal</Country_Name>
-		<Country_Code>SEN</Country_Code>
+	<entity>
+		<entity_name>Senegal</entity_name>
+		<entity_code>SEN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -49647,11 +49854,12 @@
 			<annee>2018</annee>
 			<number>346772974.607013</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Singapore</Country_Name>
-		<Country_Code>SGP</Country_Code>
+	<entity>
+		<entity_name>Singapore</entity_name>
+		<entity_code>SGP</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -49888,11 +50096,12 @@
 			<annee>2018</annee>
 			<number>10841000268.9878</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Solomon Islands</Country_Name>
-		<Country_Code>SLB</Country_Code>
+	<entity>
+		<entity_name>Solomon Islands</entity_name>
+		<entity_code>SLB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -50129,11 +50338,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Sierra Leone</Country_Name>
-		<Country_Code>SLE</Country_Code>
+	<entity>
+		<entity_name>Sierra Leone</entity_name>
+		<entity_code>SLE</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -50370,11 +50580,12 @@
 			<annee>2018</annee>
 			<number>29622478.0996257</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>El Salvador</Country_Name>
-		<Country_Code>SLV</Country_Code>
+	<entity>
+		<entity_name>El Salvador</entity_name>
+		<entity_code>SLV</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>4384473.69549372</number>
@@ -50611,11 +50822,12 @@
 			<annee>2018</annee>
 			<number>266460000</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>San Marino</Country_Name>
-		<Country_Code>SMR</Country_Code>
+	<entity>
+		<entity_name>San Marino</entity_name>
+		<entity_code>SMR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -50852,11 +51064,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Somalia</Country_Name>
-		<Country_Code>SOM</Country_Code>
+	<entity>
+		<entity_name>Somalia</entity_name>
+		<entity_code>SOM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -51093,11 +51306,12 @@
 			<annee>2018</annee>
 			<number>61556000</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Serbia</Country_Name>
-		<Country_Code>SRB</Country_Code>
+	<entity>
+		<entity_name>Serbia</entity_name>
+		<entity_code>SRB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -51334,11 +51548,12 @@
 			<annee>2018</annee>
 			<number>904323391.453924</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Sub-Saharan Africa (excluding high income)</Country_Name>
-		<Country_Code>SSA</Country_Code>
+	<entity>
+		<entity_name>Sub-Saharan Africa (excluding high income)</entity_name>
+		<entity_code>SSA</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -51575,11 +51790,12 @@
 			<annee>2018</annee>
 			<number>18299260490.5432</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>South Sudan</Country_Name>
-		<Country_Code>SSD</Country_Code>
+	<entity>
+		<entity_name>South Sudan</entity_name>
+		<entity_code>SSD</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -51816,11 +52032,12 @@
 			<annee>2018</annee>
 			<number>59353054.2969228</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Sub-Saharan Africa</Country_Name>
-		<Country_Code>SSF</Country_Code>
+	<entity>
+		<entity_name>Sub-Saharan Africa</entity_name>
+		<entity_code>SSF</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -52057,11 +52274,12 @@
 			<annee>2018</annee>
 			<number>18322083773.0874</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Small states</Country_Name>
-		<Country_Code>SST</Country_Code>
+	<entity>
+		<entity_name>Small states</entity_name>
+		<entity_code>SST</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -52298,11 +52516,12 @@
 			<annee>2018</annee>
 			<number>4875197473.81156</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Sao Tome and Principe</Country_Name>
-		<Country_Code>STP</Country_Code>
+	<entity>
+		<entity_name>Sao Tome and Principe</entity_name>
+		<entity_code>STP</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -52539,11 +52758,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Suriname</Country_Name>
-		<Country_Code>SUR</Country_Code>
+	<entity>
+		<entity_name>Suriname</entity_name>
+		<entity_code>SUR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -52780,11 +53000,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Slovak Republic</Country_Name>
-		<Country_Code>SVK</Country_Code>
+	<entity>
+		<entity_name>Slovak Republic</entity_name>
+		<entity_code>SVK</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -53021,11 +53242,12 @@
 			<annee>2018</annee>
 			<number>1280643980.97329</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Slovenia</Country_Name>
-		<Country_Code>SVN</Country_Code>
+	<entity>
+		<entity_name>Slovenia</entity_name>
+		<entity_code>SVN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -53262,11 +53484,12 @@
 			<annee>2018</annee>
 			<number>529496122.658546</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Sweden</Country_Name>
-		<Country_Code>SWE</Country_Code>
+	<entity>
+		<entity_name>Sweden</entity_name>
+		<entity_code>SWE</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>526848900.3926</number>
@@ -53503,11 +53726,12 @@
 			<annee>2018</annee>
 			<number>5755367603.12326</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Eswatini</Country_Name>
-		<Country_Code>SWZ</Country_Code>
+	<entity>
+		<entity_name>Eswatini</entity_name>
+		<entity_code>SWZ</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -53744,11 +53968,12 @@
 			<annee>2018</annee>
 			<number>87787078.5658275</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Sint Maarten (Dutch part)</Country_Name>
-		<Country_Code>SXM</Country_Code>
+	<entity>
+		<entity_name>Sint Maarten (Dutch part)</entity_name>
+		<entity_code>SXM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -53985,11 +54210,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Seychelles</Country_Name>
-		<Country_Code>SYC</Country_Code>
+	<entity>
+		<entity_name>Seychelles</entity_name>
+		<entity_code>SYC</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -54226,11 +54452,12 @@
 			<annee>2018</annee>
 			<number>22823282.5442653</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Syrian Arab Republic</Country_Name>
-		<Country_Code>SYR</Country_Code>
+	<entity>
+		<entity_name>Syrian Arab Republic</entity_name>
+		<entity_code>SYR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>90223463.6871508</number>
@@ -54467,11 +54694,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Turks and Caicos Islands</Country_Name>
-		<Country_Code>TCA</Country_Code>
+	<entity>
+		<entity_name>Turks and Caicos Islands</entity_name>
+		<entity_code>TCA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -54708,11 +54936,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Chad</Country_Name>
-		<Country_Code>TCD</Country_Code>
+	<entity>
+		<entity_name>Chad</entity_name>
+		<entity_code>TCD</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -54949,11 +55178,12 @@
 			<annee>2018</annee>
 			<number>232930989.808257</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>East Asia and Pacific (IDA and IBRD countries)</Country_Name>
-		<Country_Code>TEA</Country_Code>
+	<entity>
+		<entity_name>East Asia and Pacific (IDA and IBRD countries)</entity_name>
+		<entity_code>TEA</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -55190,11 +55420,12 @@
 			<annee>2018</annee>
 			<number>279802223817.985</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Europe and Central Asia (IDA and IBRD countries)</Country_Name>
-		<Country_Code>TEC</Country_Code>
+	<entity>
+		<entity_name>Europe and Central Asia (IDA and IBRD countries)</entity_name>
+		<entity_code>TEC</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -55431,11 +55662,12 @@
 			<annee>2018</annee>
 			<number>109983481687.022</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Togo</Country_Name>
-		<Country_Code>TGO</Country_Code>
+	<entity>
+		<entity_name>Togo</entity_name>
+		<entity_code>TGO</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -55672,11 +55904,12 @@
 			<annee>2018</annee>
 			<number>104378994.645016</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Thailand</Country_Name>
-		<Country_Code>THA</Country_Code>
+	<entity>
+		<entity_name>Thailand</entity_name>
+		<entity_code>THA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>62825161.2233144</number>
@@ -55913,11 +56146,12 @@
 			<annee>2018</annee>
 			<number>6829203403.39174</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Tajikistan</Country_Name>
-		<Country_Code>TJK</Country_Code>
+	<entity>
+		<entity_name>Tajikistan</entity_name>
+		<entity_code>TJK</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -56154,11 +56388,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Turkmenistan</Country_Name>
-		<Country_Code>TKM</Country_Code>
+	<entity>
+		<entity_name>Turkmenistan</entity_name>
+		<entity_code>TKM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -56395,11 +56630,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Latin America and the Caribbean (IDA and IBRD countries)</Country_Name>
-		<Country_Code>TLA</Country_Code>
+	<entity>
+		<entity_name>Latin America and the Caribbean (IDA and IBRD countries)</entity_name>
+		<entity_code>TLA</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>1041102128.14931</number>
@@ -56636,11 +56872,12 @@
 			<annee>2018</annee>
 			<number>64183844797.5349</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Timor-Leste</Country_Name>
-		<Country_Code>TLS</Country_Code>
+	<entity>
+		<entity_name>Timor-Leste</entity_name>
+		<entity_code>TLS</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -56877,11 +57114,12 @@
 			<annee>2018</annee>
 			<number>20610000</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Middle East and North Africa (IDA and IBRD countries)</Country_Name>
-		<Country_Code>TMN</Country_Code>
+	<entity>
+		<entity_name>Middle East and North Africa (IDA and IBRD countries)</entity_name>
+		<entity_code>TMN</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -57118,11 +57356,12 @@
 			<annee>2018</annee>
 			<number>41480239074.0565</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Tonga</Country_Name>
-		<Country_Code>TON</Country_Code>
+	<entity>
+		<entity_name>Tonga</entity_name>
+		<entity_code>TON</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -57359,11 +57598,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>South Asia (IDA and IBRD)</Country_Name>
-		<Country_Code>TSA</Country_Code>
+	<entity>
+		<entity_name>South Asia (IDA and IBRD)</entity_name>
+		<entity_code>TSA</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>907263907.263908</number>
@@ -57600,11 +57840,12 @@
 			<annee>2018</annee>
 			<number>84058551331.1915</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Sub-Saharan Africa (IDA and IBRD countries)</Country_Name>
-		<Country_Code>TSS</Country_Code>
+	<entity>
+		<entity_name>Sub-Saharan Africa (IDA and IBRD countries)</entity_name>
+		<entity_code>TSS</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -57841,11 +58082,12 @@
 			<annee>2018</annee>
 			<number>18322083773.0874</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Trinidad and Tobago</Country_Name>
-		<Country_Code>TTO</Country_Code>
+	<entity>
+		<entity_name>Trinidad and Tobago</entity_name>
+		<entity_code>TTO</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -58082,11 +58324,12 @@
 			<annee>2018</annee>
 			<number>169332467.798996</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Tunisia</Country_Name>
-		<Country_Code>TUN</Country_Code>
+	<entity>
+		<entity_name>Tunisia</entity_name>
+		<entity_code>TUN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>15952380.952381</number>
@@ -58323,11 +58566,12 @@
 			<annee>2018</annee>
 			<number>844227367.128514</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Turkey</Country_Name>
-		<Country_Code>TUR</Country_Code>
+	<entity>
+		<entity_name>Turkey</entity_name>
+		<entity_code>TUR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>468810916.179337</number>
@@ -58564,11 +58808,12 @@
 			<annee>2018</annee>
 			<number>18967113030.7979</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Tuvalu</Country_Name>
-		<Country_Code>TUV</Country_Code>
+	<entity>
+		<entity_name>Tuvalu</entity_name>
+		<entity_code>TUV</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -58805,11 +59050,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Tanzania</Country_Name>
-		<Country_Code>TZA</Country_Code>
+	<entity>
+		<entity_name>Tanzania</entity_name>
+		<entity_code>TZA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -59046,11 +59292,12 @@
 			<annee>2018</annee>
 			<number>675475234.075221</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Uganda</Country_Name>
-		<Country_Code>UGA</Country_Code>
+	<entity>
+		<entity_name>Uganda</entity_name>
+		<entity_code>UGA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -59287,11 +59534,12 @@
 			<annee>2018</annee>
 			<number>408367566.71345</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Ukraine</Country_Name>
-		<Country_Code>UKR</Country_Code>
+	<entity>
+		<entity_name>Ukraine</entity_name>
+		<entity_code>UKR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -59528,11 +59776,12 @@
 			<annee>2018</annee>
 			<number>4750219043.99628</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Upper middle income</Country_Name>
-		<Country_Code>UMC</Country_Code>
+	<entity>
+		<entity_name>Upper middle income</entity_name>
+		<entity_code>UMC</entity_code>
+		<type>economy</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -59769,11 +60018,12 @@
 			<annee>2018</annee>
 			<number>449250990873.571</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Uruguay</Country_Name>
-		<Country_Code>URY</Country_Code>
+	<entity>
+		<entity_name>Uruguay</entity_name>
+		<entity_code>URY</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -60010,11 +60260,12 @@
 			<annee>2018</annee>
 			<number>1168130813.73561</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>United States</Country_Name>
-		<Country_Code>USA</Country_Code>
+	<entity>
+		<entity_name>United States</entity_name>
+		<entity_code>USA</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>45380000000</number>
@@ -60251,11 +60502,12 @@
 			<annee>2018</annee>
 			<number>648798273000</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Uzbekistan</Country_Name>
-		<Country_Code>UZB</Country_Code>
+	<entity>
+		<entity_name>Uzbekistan</entity_name>
+		<entity_code>UZB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -60492,11 +60744,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>St. Vincent and the Grenadines</Country_Name>
-		<Country_Code>VCT</Country_Code>
+	<entity>
+		<entity_name>St. Vincent and the Grenadines</entity_name>
+		<entity_code>VCT</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -60733,11 +60986,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Venezuela, RB</Country_Name>
-		<Country_Code>VEN</Country_Code>
+	<entity>
+		<entity_name>Venezuela, RB</entity_name>
+		<entity_code>VEN</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>234357740.37342</number>
@@ -60974,11 +61228,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>British Virgin Islands</Country_Name>
-		<Country_Code>VGB</Country_Code>
+	<entity>
+		<entity_name>British Virgin Islands</entity_name>
+		<entity_code>VGB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -61215,11 +61470,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Virgin Islands (U.S.)</Country_Name>
-		<Country_Code>VIR</Country_Code>
+	<entity>
+		<entity_name>Virgin Islands (U.S.)</entity_name>
+		<entity_code>VIR</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -61456,11 +61712,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Vietnam</Country_Name>
-		<Country_Code>VNM</Country_Code>
+	<entity>
+		<entity_name>Vietnam</entity_name>
+		<entity_code>VNM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -61697,11 +61954,12 @@
 			<annee>2018</annee>
 			<number>5500000000</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Vanuatu</Country_Name>
-		<Country_Code>VUT</Country_Code>
+	<entity>
+		<entity_name>Vanuatu</entity_name>
+		<entity_code>VUT</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -61938,11 +62196,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>World</Country_Name>
-		<Country_Code>WLD</Country_Code>
+	<entity>
+		<entity_name>World</entity_name>
+		<entity_code>WLD</entity_code>
+		<type>region</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -62179,11 +62438,12 @@
 			<annee>2018</annee>
 			<number>1782350879756.92</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Samoa</Country_Name>
-		<Country_Code>WSM</Country_Code>
+	<entity>
+		<entity_name>Samoa</entity_name>
+		<entity_code>WSM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -62420,11 +62680,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Kosovo</Country_Name>
-		<Country_Code>XKX</Country_Code>
+	<entity>
+		<entity_name>Kosovo</entity_name>
+		<entity_code>XKX</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -62661,11 +62922,12 @@
 			<annee>2018</annee>
 			<number>63344074.218335</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Yemen, Rep.</Country_Name>
-		<Country_Code>YEM</Country_Code>
+	<entity>
+		<entity_name>Yemen, Rep.</entity_name>
+		<entity_code>YEM</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -62902,11 +63164,12 @@
 			<annee>2018</annee>
 			<number>non renseigné</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>South Africa</Country_Name>
-		<Country_Code>ZAF</Country_Code>
+	<entity>
+		<entity_name>South Africa</entity_name>
+		<entity_code>ZAF</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>69999972.0000112</number>
@@ -63143,11 +63406,12 @@
 			<annee>2018</annee>
 			<number>3639879164.98451</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Zambia</Country_Name>
-		<Country_Code>ZMB</Country_Code>
+	<entity>
+		<entity_name>Zambia</entity_name>
+		<entity_code>ZMB</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -63384,11 +63648,12 @@
 			<annee>2018</annee>
 			<number>378025430.958942</number>
 		</donnees>
-	</country>
+	</entity>
 
-	<country>
-		<Country_Name>Zimbabwe</Country_Name>
-		<Country_Code>ZWE</Country_Code>
+	<entity>
+		<entity_name>Zimbabwe</entity_name>
+		<entity_code>ZWE</entity_code>
+		<type>country</type>
 		<donnees>
 			<annee>1960</annee>
 			<number>non renseigné</number>
@@ -63625,6 +63890,6 @@
 			<annee>2018</annee>
 			<number>420364000</number>
 		</donnees>
-	</country>
+	</entity>
 
 </data>

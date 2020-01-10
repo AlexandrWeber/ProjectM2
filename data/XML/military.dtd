@@ -1,0 +1,8 @@
+<!ELEMENT data (entity+)>
+<!ELEMENT entity (entity_name, entity_code, type, donnees+)>
+<!ELEMENT donnees (annee, number)>
+<!ELEMENT entity_name (#PCDATA)>
+<!ELEMENT entity_code (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT annee (#PCDATA)>
+<!ELEMENT number (#PCDATA)>
