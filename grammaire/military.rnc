@@ -1,0 +1,14 @@
+default namespace = ""
+
+start =
+  element data {
+    element entity {
+      element entity_name { text },
+      element entity_code { xsd:NCName },
+      element type { xsd:NCName },
+      element donnees {
+        element annee { xsd:integer },
+        element number { text }
+      }+
+    }+
+  }

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="data">
+      <oneOrMore>
+        <element name="entity">
+          <element name="entity_name">
+            <text/>
+          </element>
+          <element name="entity_code">
+            <data type="NCName"/>
+          </element>
+          <element name="type">
+            <data type="NCName"/>
+          </element>
+          <oneOrMore>
+            <element name="donnees">
+              <element name="annee">
+                <data type="integer"/>
+              </element>
+              <element name="number">
+                <text/>
+              </element>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+</grammar>

@@ -1,7 +1,8 @@
-<!ELEMENT data (country+)>
-<!ELEMENT country (Country_Name, Country_Code, donnees+)>
+<!ELEMENT data (entity+)>
+<!ELEMENT entity (entity_name, entity_code, type, donnees+)>
 <!ELEMENT donnees (annee, number)>
-<!ELEMENT Country_Name (#PCDATA)>
-<!ELEMENT Country_Code (#PCDATA)>
+<!ELEMENT entity_name (#PCDATA)>
+<!ELEMENT entity_code (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
 <!ELEMENT annee (#PCDATA)>
 <!ELEMENT number (#PCDATA)>

@@ -1,0 +1,33 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT data (entity)+>
+<!ATTLIST data
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT entity (entity_name,entity_code,type,donnees+)>
+<!ATTLIST entity
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT entity_name (#PCDATA)>
+<!ATTLIST entity_name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT entity_code (#PCDATA)>
+<!ATTLIST entity_code
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT type (#PCDATA)>
+<!ATTLIST type
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT donnees (annee,number)>
+<!ATTLIST donnees
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT annee (#PCDATA)>
+<!ATTLIST annee
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT number (#PCDATA)>
+<!ATTLIST number
+  xmlns CDATA #FIXED ''>
