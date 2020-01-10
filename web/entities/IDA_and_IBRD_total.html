@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css"/>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js">
+</script>
+<script type="text/javascript">
+google.charts.load('current',
+{'packages':['corechart']});
+google.charts.setOnLoadCallback(drawChart);
+function drawChart() {
+
+var data = google.visualization.arrayToDataTable([
+['Years', 'Spendings'],
+['1989', 90774254019.3192],
+['1990', 93938160188.2123],
+['1991', 90710770376.7947],
+['1992', 96442934057.5836],
+['1993', 92660929773.3973],
+['1994', 103797437481.057],
+['1995', 114764836801.289],
+['1996', 124592356907.114],
+['1997', 133306720662.214],
+['1998', 124103627138.046],
+['1999', 126424102147.799],
+['2000', 135279942324.458],
+['2001', 143628389826.826],
+['2002', 144902321928.713],
+['2003', 171916748362.645],
+['2004', 201835937051.596],
+['2005', 236239427085.019],
+['2006', 237704333851.843],
+['2007', 289263714325.624],
+['2008', 352844036959.993],
+['2009', 369242098236.584],
+['2010', 414027858627.929],
+['2011', 469922161481.405],
+['2012', 509088671306.308],
+['2013', 552368695506.835],
+['2014', 567482511712.141],
+['2015', 543270492744.36],
+['2016', 545278055591.035],
+['2017', 578624443958.619],
+['2018', 597830424480.877],
+]);
+ var options = { title: 'IDA and IBRD total', legend: { position: 'bottom' } 
+ };
+var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));	chart.draw(data, options);
+}
+</script>
+</head>
+<body>
+<div id="curve_chart" style="width: 900px; height: 500px">
+</div>
+<table><tr>
+<td>1960</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1961</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1962</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1963</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1964</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1965</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1966</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1967</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1968</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1969</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1970</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1971</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1972</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1973</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1974</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1975</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1976</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1977</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1978</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1979</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1980</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1981</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1982</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1983</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1984</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1985</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1986</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1987</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1988</td>
+<td>inconnu</td>
+</tr><tr>
+<td>1989</td>
+<td>90774254019.3192</td>
+</tr><tr>
+<td>1990</td>
+<td>93938160188.2123</td>
+</tr><tr>
+<td>1991</td>
+<td>90710770376.7947</td>
+</tr><tr>
+<td>1992</td>
+<td>96442934057.5836</td>
+</tr><tr>
+<td>1993</td>
+<td>92660929773.3973</td>
+</tr><tr>
+<td>1994</td>
+<td>103797437481.057</td>
+</tr><tr>
+<td>1995</td>
+<td>114764836801.289</td>
+</tr><tr>
+<td>1996</td>
+<td>124592356907.114</td>
+</tr><tr>
+<td>1997</td>
+<td>133306720662.214</td>
+</tr><tr>
+<td>1998</td>
+<td>124103627138.046</td>
+</tr><tr>
+<td>1999</td>
+<td>126424102147.799</td>
+</tr><tr>
+<td>2000</td>
+<td>135279942324.458</td>
+</tr><tr>
+<td>2001</td>
+<td>143628389826.826</td>
+</tr><tr>
+<td>2002</td>
+<td>144902321928.713</td>
+</tr><tr>
+<td>2003</td>
+<td>171916748362.645</td>
+</tr><tr>
+<td>2004</td>
+<td>201835937051.596</td>
+</tr><tr>
+<td>2005</td>
+<td>236239427085.019</td>
+</tr><tr>
+<td>2006</td>
+<td>237704333851.843</td>
+</tr><tr>
+<td>2007</td>
+<td>289263714325.624</td>
+</tr><tr>
+<td>2008</td>
+<td>352844036959.993</td>
+</tr><tr>
+<td>2009</td>
+<td>369242098236.584</td>
+</tr><tr>
+<td>2010</td>
+<td>414027858627.929</td>
+</tr><tr>
+<td>2011</td>
+<td>469922161481.405</td>
+</tr><tr>
+<td>2012</td>
+<td>509088671306.308</td>
+</tr><tr>
+<td>2013</td>
+<td>552368695506.835</td>
+</tr><tr>
+<td>2014</td>
+<td>567482511712.141</td>
+</tr><tr>
+<td>2015</td>
+<td>543270492744.36</td>
+</tr><tr>
+<td>2016</td>
+<td>545278055591.035</td>
+</tr><tr>
+<td>2017</td>
+<td>578624443958.619</td>
+</tr><tr>
+<td>2018</td>
+<td>597830424480.877</td>
+</tr>
+</table>
+</body>
+</html>

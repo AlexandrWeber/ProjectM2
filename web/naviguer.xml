@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformation.xsl"?>
+<!DOCTYPE Page SYSTEM ".dtd">
+<Page>
+<Info>
+<Titre> Documents Structurés</Titre>
+<Auteurs>SOY Ugur, GUILLER Kirian, IVANOV Alexander</Auteurs>
+</Info>
+<Menu>
+	<Rubrique lien="accueil.xml"> Accueil</Rubrique>
+	<Rubrique lien="presentation.xml">Présentation</Rubrique>
+	<Rubrique lien="donnees.xml">Données</Rubrique>
+	<Rubrique lien="naviguer.xml">Naviguer</Rubrique>
+</Menu>
+
+
+
+<Contenu>
+	<Enonce>
+		<Texte> Ce site vous permet de naviguer entre les données concernant les dépenses militaires durant les dernières 60 années. </Texte>
+		<Texte> Vous pouvez les visionner par pays, par région ainsi que par revenu (haut revenu, moyen revenu et bas revenu). </Texte>
+		<Texte> Mais n'oubliez pas " Une paix de fer est meilleur qu'une guerre d'or " !</Texte>
+	</Enonce>
+<Soustitre> ◾ Ci-dessous le lien pour accèder à la liste : </Soustitre>
+<NosFichiers>
+    <Fichier lien="naviguer.html">Cliquez ici pour accèder aux fichiers recensant les différents pays, régions et économies. </Fichier>
+</NosFichiers>
+
+
+<ImageIdx src="images/Carte.PNG">images/Carte.PNG</ImageIdx>
+</Contenu>
+</Page>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformation.xsl"?>
+<Page>
+    <Info>
+        <Titre> Documents Structurés</Titre>
+        <Auteurs>SOY Ugur, GUILLER Kirian, IVANOV Alexander</Auteurs>
+    </Info>
+<Menu>
+      <Rubrique lien="accueil.xml"> Accueil</Rubrique>
+	<Rubrique lien="presentation.xml">Présentation</Rubrique>
+	<Rubrique lien="donnees.xml">Données</Rubrique>
+	<Rubrique lien="naviguer.xml">Naviguer</Rubrique>
+</Menu>
+    <Contenu>
+        <Titre> Cette partie est consacrée à la présentation des données. </Titre>
+		
+		<Titre>Elle comprend les étapes suivantes :</Titre>
+
+		<Titre>La première est la description.   </Titre>
+		
+        <Enonce>
+            <Liste> Le fichier était sous format ".csv" et d'une taille de 55KB.  </Liste>
+            <Liste> Sa date de création est le 10 octobre 2019. </Liste>
+            <Liste> Le site hébergeant ces données est le suivant : "kaggle.com" </Liste>	 
+        </Enonce>
+    </Contenu>
+	
+	<Contenu>
+        <Titre> Le prétraitement  </Titre>
+        <Enonce>
+            <Liste> Nous avons normalisé les noms des pays, fait la transformation des signes qui pouvaient être mail interprétés par xml. </Liste>
+            <Liste> Nous avons normalisé les parties qui vont jouer le rôle des balises. </Liste>
+			<Liste> Nous avons supprimé les espaces et remplacé par des "_" </Liste>	
+			<Liste> Nous avons séparé les données en trois grands groupes ; régions, pays et économie. </Liste>		
+        </Enonce>
+    </Contenu>
+	
+	<Contenu>
+        <Titre> La transformation  </Titre>
+        <Enonce>
+		<Liste> Une fois le document ".csv" téléchargé, nous l'avons converti en ".xml" à l'aide d'un script python. Cela nous a donné le fichier "naviguer.html".    </Liste>
+            <Liste> Chaque nom de pays, de région et économie était relié à un fichier le représentant son évolution par un graphique et un tableau. Ces fichiers se trouvent dans le dossier "entities2". </Liste>
+			<Liste> Nous avons crée un script Python permettant de transformer le document xml en document html. </Liste>	
+			<Liste> Les jeux de données des pays en était tranformé sous forme de graphique et de tableau à l'aide de Javascript. </Liste>	
+        </Enonce>
+    </Contenu>
+	
+	<Contenu>
+        <Titre> La mise en forme  </Titre>
+        <Enonce>
+  
+            <Liste> Nous avons opté pour une mise en forme sous forme de graphique et de tableau pour chaque pays, région et économie.  </Liste>
+            <Liste> Un fichier "naviguer.html" contient la liste de tous les pays.   </Liste> 
+			<Liste> Les données sont stochées, pour chaque pays, région et économie, dans un seul fichier pour chacun. Ce qui nous donne plus de 200 fichiers dans le dossier "entities". </Liste> 
+        </Enonce>
+    </Contenu>
+
+</Page>

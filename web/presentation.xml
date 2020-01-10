@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformation.xsl"?>
+<Page>
+    <Info>
+        <Titre> Documents Structurés</Titre>
+        <Auteurs>SOY Ugur, GUILLER Kirian, IVANOV Alexander</Auteurs>
+    </Info>
+   <Menu>
+	<Rubrique lien="accueil.xml"> Accueil</Rubrique>
+	<Rubrique lien="presentation.xml">Présentation</Rubrique>
+	<Rubrique lien="donnees.xml">Données</Rubrique>
+	<Rubrique lien="naviguer.xml">Naviguer</Rubrique>
+</Menu>
+   
+<Contenu>
+        <Titre> Présentation générale du projet  </Titre>
+        <Enonce>
+            <Texte> Problématique : Ce projet a pour ambition de représenter les dépenses militaires dans le monde pour la période entre 1960 et 2018.</Texte>
+			<Texte> Intérêt :  Illustrer la dynamique économique des pays à travers le jeux de données militaires qui sont en corrélation directe avec la situation économique du pays,
+					la conjoncture économique mondiale, mais aussi avec les conflits mondiaux, inter et intra régionaux.</Texte>
+		</Enonce>
+    </Contenu>
+	
+<Contenu>
+        <Titre> Pourquoi ce projet  </Titre>
+        <Enonce>
+            <Texte> Le budget militaire fait partie du budget de tous les pays.
+		Chaque nation est obligée de penser à sa défense. 
+		Néanmoins, il n'est pas aisé de trouver un bon équilibre entre l'investissement dans le secteur militaire et les revenus du pays.
+            Les budgets militaires sont très représentatifs de la situation économique dans un pays ou une région donnée.
+		La guerre constitue un facteur important dans plusieurs pays du monde.
+            Malheuresement notre monde n'est pas un monde tranquil et même si la guerre n'a pas tellement d'importance dans les échanges politiques comme avant, c'est un facteur important dans plusieurs régions.
+       Suite à cela les hausses et baisses dans les dépenses sur l'armée nous montrent la conjoncture conflictuelle dans les différentes parties du monde.  </Texte>
+            <Liste> Nous sommes partis du principe qu'il est possible de voir la sitation économique du pays à travers ses dépenses militairtres ponctuels et la capabilités des pays de maintenir ces dépenses sur une étendue d'années plus ou moins longue.  </Liste>
+            <Liste>Les dépenses militaires sont en corrélation directe avec la situation économique du pays </Liste>
+            <Liste>Les dépenses militaires sont en corrélation avec les situations conflictuelles dans le monde </Liste>            
+        </Enonce>
+    </Contenu>
+       
+    <Contenu>
+        <Titre> Étendue du projet  </Titre>
+        <Enonce>
+            <Texte> Pour donner une apperçu plus détaillée de la situation économique d'un pays et des situations conflictuelles, il ne suffit pas d'avoir juste les données par pays.
+			Notre projet  donne une vision plus large avec plus de variables: pays, régions, économies etc. </Texte>
+            <Liste>Le projet présente un éventail des données militaires reparties sur les économies, les pays, les régions etc.  </Liste>            
+        </Enonce>
+    </Contenu>
+</Page>
